@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jenkinspat/adminUser:password
+  username: patoch
+enableDocker: false
+pipelineUser:
+  email: yp.rumeur@groupeonepoint.com
+  token: local:jenkinspat/pipelineUser:token
+  username: ypr-op
+prow:
+  hmacToken: local:jenkinspat/prow:hmacToken
