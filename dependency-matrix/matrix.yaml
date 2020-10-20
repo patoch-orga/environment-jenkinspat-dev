@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: patoch-orga
+  repo: spring-boot-http-gradle
+  url: https://github.com/patoch-orga/spring-boot-http-gradle.git
+  version: ""
+  versionURL: ""
