@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: patoch-orga
+    provider: github
+    repository: spring-boot-http-gradle
+  name: patoch-orga-spring-boot-http-gradle
+spec:
+  description: Imported application for patoch-orga/spring-boot-http-gradle
+  httpCloneURL: https://github.com/patoch-orga/spring-boot-http-gradle.git
+  org: patoch-orga
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: spring-boot-http-gradle
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/patoch-orga/spring-boot-http-gradle.git
